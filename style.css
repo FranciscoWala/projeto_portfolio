@@ -550,7 +550,7 @@ section { position: relative; z-index: 1; }
 /* Skills */
 .skills-list { display: flex; flex-direction: column; gap: 1.25rem; }
 
-.skill-item {}
+/* .skill-item {} */
 
 .skill-header {
   display: flex;
@@ -761,7 +761,7 @@ section { position: relative; z-index: 1; }
   align-items: start;
 }
 
-.contact-info { }
+/* .contact-info { } */
 
 .contact-links {
   margin-top: 2rem;
